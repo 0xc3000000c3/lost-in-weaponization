@@ -3,7 +3,7 @@
 > **Forge the artifact. Prove the detection.**
 
 `Lost in Weaponization` is a single PowerShell script that generates
-**57 Windows execution artifacts** — LNK, SCT, XLL, VSTO, Office macros,
+**65 Windows execution artifacts** — LNK, SCT, XLL, VSTO, Office macros,
 native PE, CPL, installutil, and more — where **every artifact only
 launches `calc.exe`**.
 
@@ -21,7 +21,7 @@ detonate it in a lab and watch your detection — or your miss — happen.
 
 ## What you get
 
-57 files. 13 categories. One script. All calc-only.
+65 files. 13 categories. One script. All calc-only.
 
 | Category | Formats |
 |---|---|
